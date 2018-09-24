@@ -1,2 +1,0 @@
-# supplyChainFabric
-NPTEL course
